@@ -4,7 +4,10 @@ return array(
     'modules' => array(
         //'Admin',
         'Application',
-        'ZfcAdmin'
+        'ZfcAdmin',
+       // 'bjy-authorize',
+        'ZfcBase',
+        'ZfcUser',
     ),
 
     // These are various options for the listeners attached to the ModuleManager
