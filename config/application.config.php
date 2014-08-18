@@ -5,7 +5,7 @@ return array(
         //'Admin',
         'Application',
         'ZfcAdmin',
-       // 'bjy-authorize',
+        //'bjy-authorize',
         'ZfcBase',
         'ZfcUser',
     ),
